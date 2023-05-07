@@ -1,3 +1,74 @@
+Este es un proyecto de administrador de cartera de cobranza desarrollado en Node.js con Express, con una base de datos en MongoDB y un frontend en React Next.js. El backend está alojado en Microsoft Azure, mientras que el frontend se encuentra en Versel.
+
+El objetivo del proyecto es proporcionar una solución de administración de cartera de cobranza fácil de usar y escalable, que permita a los usuarios ver, agregar y actualizar información sobre las deudas y los pagos pendientes.
+
+El proyecto se ha probado en los siguientes navegadores: Google Chrome, Mozilla Firefox y Safari.
+
+Instalación
+
+Para instalar el proyecto, siga los siguientes pasos:
+
+Clonar el repositorio desde GitHub:
+
+git clone https://github.com/tunombre/proyecto-cobranza.git
+
+Navegar al directorio del proyecto:
+
+cd port-manager-front
+
+Instalar las dependencias del backend:
+
+npm install
+
+Ejecutar el proyecto:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+Navegar al directorio del frontend:
+
+cd port-manager-front
+
+Instalar las dependencias del frontend:
+
+$npm install
+
+Volver al directorio principal:
+
+cd ..
+
+
+El proyecto ahora debería estar en funcionamiento en http://localhost:3000.
+
+Contribución
+Si desea contribuir al proyecto, siga los siguientes pasos:
+
+Forkee el repositorio desde GitHub.
+Clone su fork del repositorio.
+Cree una nueva rama para su contribución.
+Realice sus cambios y pruebas.
+Envíe su pull request.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Este es un proyecto [Next.js](https://nextjs.org/) iniciado con [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages /crear-siguiente-aplicación).
 
 ## Empezando
